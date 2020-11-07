@@ -9,6 +9,9 @@ In the MyReads React project, a bookshelf app is created that allows you to sele
 + user can search books from an BookAPI and get the result based on the input.
 + user can add the books on their choice in any categorize.
 
+## Deployed in Heroku
+Project link is [MyReads](https://myreads-status-reactapp.herokuapp.com/)
+
 ## TL;DR
 
 To get started developing right away:
